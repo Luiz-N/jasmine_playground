@@ -1,0 +1,3 @@
+function Conway (argument) {
+	// body...
+}
